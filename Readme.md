@@ -12,8 +12,8 @@ This is a simple "Hello World" application that demonstrates how to use the Piec
 1. **Clone the repository (if applicable):**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/kvk-code/pieces_hello_world.git
+   cd pieces_hello_world
    ```
 
 2. **Install the required library:**
